@@ -23,7 +23,7 @@ Me chamo Vitor Silva, atuo na área de tecnologia há 5 anos e atualmente sou an
 
 <br>
 
-##&nbsp;Social Links
+## 🛠 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
   
