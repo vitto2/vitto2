@@ -38,5 +38,5 @@ Me chamo Vitor Silva, atuo na área de tecnologia há 5 anos e atualmente sou an
 </a>
 </p>
 
-<img width="300em" src="https://github-readme-twitter-gazf.vercel.app/api?id=soy_vitto&layout=wide&show_reply=off&show_retweet=on" />
+<img width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=soy_vitto&layout=wide&show_reply=off&show_retweet=on" />
 
