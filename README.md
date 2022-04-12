@@ -11,11 +11,10 @@ Me chamo Vitor Silva, atuo na área de tecnologia há 5 anos e atualmente sou an
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)&nbsp;
-![mysql](https://camo.githubusercontent.com/4eade77f6242a74…f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)&nbsp;
 
 
-https://camo.githubusercontent.com/4eade77f6242a74…f676f3d6d7973716c266c6f676f436f6c6f723d7768697465
-<br>
+
+
 
 <br>
 
