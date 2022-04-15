@@ -1,5 +1,4 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/vitto2/fcbb0c793c69b76f9d9129cc3a2dc379/raw/6471d6df1f5ba1ace2e461c85448c3c8daafa1c9/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitto2&color=yellow" alt="Profile views" /> </p>
 
 Me chamo Vitor Silva, atuo na área de tecnologia há 5 anos e atualmente sou analista de TI do Mercado Livre. Estou em processo de transição para área de Dev e postarei meus projetos aqui. Atualmente estou focado em Java mas ja possuo conhecimento em HTML,CSS e JS.  
