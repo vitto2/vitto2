@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitto2&color=yellow" alt="Profile views" /> </p>
 
-Me chamo Vitor Silva, atuo na área de tecnologia há 5 anos e atualmente sou analista de TI do Mercado Livre. Estou em processo de transição para área de Dev e postarei meus projetos aqui. Atualmente estou focado em Java mas ja possuo conhecimento em HTML,CSS e JS.  
+Analista de suporte em processo de transição de carreira para a área de desenvolvimento. Estudo tecnologias como Php, Laravel, Mysql e já possuo conhecimento básico em Html, Csss, Javascript e outras tecnologias que tive contato durante meu trabalho na área de TI. 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
