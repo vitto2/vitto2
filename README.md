@@ -30,6 +30,6 @@ Sou um desenvolvedor focado em construir aplicações web modernas, escaláveis 
 ### 📧 Conecte-se Comigo
 
 * **LinkedIn:** [vitto-ios](https://www.linkedin.com/in/vitto-ios/)
-* **Portfólio:** [Link para seu site/portfólio]
+
 
 ---
