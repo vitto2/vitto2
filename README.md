@@ -32,5 +32,4 @@ Minha base em **suporte técnico e ambientes de produção** me proporciona uma 
 ### 📧 Conecte-se Comigo
 
 * **LinkedIn:** [vitor-silva-7127843a6](https://www.linkedin.com/in/vitor-silva-7127843a6/)
-* 
-https://fragments-beta-one.vercel.app/
+* https://fragments-beta-one.vercel.app/
