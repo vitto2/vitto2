@@ -1,35 +1,88 @@
 # Olá, eu sou o Vitor! 👋
 
-Desenvolvedor **Front-end** | **React** & **TypeScript**
+**Desenvolvedor React Native | Front-end | Background em Infra & Suporte Técnico**
 
-Sou um desenvolvedor Front-end focado na construção de interfaces modernas, funcionais e bem estruturadas. Tenho experiência em transformar layouts e ideias em experiências reais de uso, com atenção à componentização, organização de código e boas práticas de desenvolvimento.
+Sou desenvolvedor com foco em **React Native e Front-end**, com uma base sólida construída ao longo de **+6 anos em suporte técnico e infraestrutura de TI**.
 
-Minha base em **suporte técnico e ambientes de produção** me proporciona uma visão prática de sistemas reais, facilitando o debug, a leitura de código legado e a comunicação com times técnicos.
+Essa combinação me permite ir além da interface: eu entendo como os sistemas funcionam **na prática, em produção**, lidando com usuários reais, incidentes críticos e integrações com backend.
 
----
-
-### 🚀 O que eu faço
-
-* **Desenvolvimento Front-end:** Construção de interfaces responsivas e acessíveis para aplicações web.
-* **Componentização com React:** Criação de componentes reutilizáveis e escaláveis.
-* **Consumo de APIs:** Integração com APIs REST para aplicações dinâmicas.
-* **Organização e Boas Práticas:** Código limpo, tipado e de fácil manutenção.
-* **Experiência em Ambiente Real:** Vivência com sistemas em produção, troubleshooting e contato direto com times de desenvolvimento.
+Hoje, aplico essa experiência para desenvolver aplicações mais estáveis, bem estruturadas e pensadas para o mundo real.
 
 ---
 
-### 🛠️ Minhas Habilidades Técnicas
+## 🚀 Minha proposta como dev
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Frontend** | **React**, **TypeScript**, JavaScript (ES6+), HTML5, CSS3 |
-| **Estilização** | Tailwind CSS, CSS Modules |
-| **Ferramentas** | Git, NPM, Vite |
-| **Conceitos** | Componentização, Consumo de APIs REST, Boas Práticas, Responsividade |
+Diferente de perfis puramente front-end, eu trago:
+
+* Visão de **sistemas em produção (SLA, incidentes, usuário final)**
+* Facilidade em **debug e troubleshooting**
+* Experiência em **comunicação com times técnicos e backend**
+* Capacidade de entender problemas **além do código**
 
 ---
 
-### 📧 Conecte-se Comigo
+## 💻 O que eu faço hoje
 
-* **LinkedIn:** [vitor-silva-7127843a6](https://www.linkedin.com/in/vitor-silva-7127843a6/)
-* https://fragments-beta-one.vercel.app/
+* 📱 Desenvolvimento mobile com **React Native**
+* ⚛️ Construção de interfaces com **React + TypeScript**
+* 🔗 Integração com APIs REST
+* 🧩 Componentização e organização de código
+* 🛠️ Debug e resolução de problemas reais de aplicação
+
+---
+
+## 🧠 Background técnico (meu diferencial)
+
+Antes de migrar para desenvolvimento, atuei como **Analista de Suporte de TI**, com experiência em:
+
+* 🔧 Troubleshooting de hardware e software
+* 🌐 Redes (DNS, DHCP, VPN, Wireless)
+* 🖥️ Windows, Linux e ambientes corporativos
+* ☁️ Conceitos de Cloud (AWS)
+* 🔐 Active Directory e Office 365
+* 📊 Ferramentas como JIRA, Monday e Auth0
+
+Além disso:
+
+* Atuação em ambientes críticos (logística / operações)
+* Contato direto com times de desenvolvimento para reporte de bugs
+* Treinamento de usuários e suporte em produção
+
+---
+
+## 🛠️ Stack atual
+
+| Área                  | Tecnologias                                 |
+| --------------------- | ------------------------------------------- |
+| **Mobile**            | React Native,  JavaScript |
+| **Backend (base)**    | Node.js, Express                            |
+| **Infra & Sistemas**  | Linux, Windows, Redes, AWS (conceitos)      |
+| **Ferramentas**       | Git, Vite, NPM, JIRA, Auth0                 |
+
+---
+
+## 📈 Em evolução
+
+Atualmente aprofundando em:
+
+* Arquitetura de aplicações mobile
+* Integração mais robusta com backend
+* Boas práticas de código escalável
+* Performance e otimização
+
+---
+
+## 📬 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/vitor-silva-7127843a6/
+* 🌐 Portfólio: https://fragments-beta-one.vercel.app/
+* 📧 Email: [vitor2071@gmail.com](mailto:vitor2071@gmail.com)
+
+---
+
+## ⚡ Resumo rápido
+
+> Desenvolvedor que entende código **e** produção.
+> Construo interfaces, mas também resolvo problemas reais de sistema.
+
+---
